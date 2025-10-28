@@ -19,7 +19,13 @@ Este projeto tem como objetivo prever a demanda de sorvetes com base na temperat
 4. Registro do modelo com MLflow.
 
 ## 📸 Prints
-*Adicione aqui imagens do seu código, gráficos de regressão, ou do MLflow em funcionamento.*
+## 📸 Prints
+
+### Gráfico de Regressão Linear
+Este gráfico mostra a relação entre a temperatura e as vendas de sorvete, com a linha vermelha representando a previsão do modelo:
+
+
+
 
 ## 💡 Insights e Aprendizados
 - A temperatura tem forte correlação com vendas de sorvete.
